@@ -1,5 +1,4 @@
-baseURL = "https://zhushunshui95.github.io/Han"
-
+baseURL: "https://zhushunshui95.github.io/Han"
 languageCode: zh-CN
 title: Confucianism
 theme: PaperMod
